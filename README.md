@@ -23,7 +23,7 @@ php composer.phar require --prefer-dist wbraganca/yii2-dynamicform "*"
 or add
 
 ```
-"wbraganca/yii2-dynamicform": "*"
+"industi/yii2-dynamicform": "2.0.1"
 ```
 
 to the require section of your `composer.json` file.
